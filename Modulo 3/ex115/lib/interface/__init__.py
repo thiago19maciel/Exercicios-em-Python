@@ -29,6 +29,3 @@ def menu(lista_opcoes):
     linha()
     opc = leia_int("Digite um numero inteiro: ")
     return opc
-
-
-
