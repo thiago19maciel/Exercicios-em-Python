@@ -5,4 +5,4 @@
  
  Modulo 2: Condições aninhadas, estrutura de repetição for e while.
  
- Modulo 3: Tuplas, listas, dicionários, funções, modulos e pacotes e tratamento de erros e exceções.
+ Modulo 3: Tuplas, listas, dicionários, funções, modulos e pacotes e tratamento de erros e exceções, manipulação de arquivos.
